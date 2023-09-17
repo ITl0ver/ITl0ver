@@ -48,7 +48,7 @@
   <img align="left" title="Git" alt="Git" width="40px" src="./assets/Git-logo.png" />
 </a>
 
-<p>Contact Me <img src="./assets/contact me.jpg" width="60px"/></p>
+##Contact Me <img src="./assets/contact me.jpg" width="60px"/>
 
 
 <a href="https://www.linkedin.com/in/giorgi-aptsiauri-785250210/" target="_blank"/>
