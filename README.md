@@ -4,7 +4,7 @@
 
 ## About me
 
-- ✨ Creating bugs since 2023
+- ✨ Creating bugs from this year
 - 📚 I'm currently learning everything 🤷‍♂️ 
 - 🎯 Became a master in JavaScript, then in Python.To work and learn with a team, where loves IT and challenges. To earn 💰
 - 👨‍💻 I study independently, with the help of AI and open sources. I am open to if you have advice🙏
