@@ -72,8 +72,5 @@
   </a>
 
 ### Feedback
-Please provide your feedback below:
-<form action="mailto:gioafci@gmail.com" method="post">
-  <textarea name="feedback" rows="4" cols="50" placeholder="Enter your feedback here"></textarea><br>
-  <input type="submit" value="Submit">
-</form>
+
+Please provide your feedback by clicking [here](https://docs.google.com/forms/d/e/1FAIpQLSe4hNBtsKj0pqyjDH4ZPLh9C6BoDBxETuEyO4Zq_OivqDNvlg/viewform?usp=sf_link).
