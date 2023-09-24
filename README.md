@@ -13,7 +13,7 @@
 
 ### I code with     
 
-<a href="https://www.javascript.com/" target="_blank">
+<a href="	ecma-international.org/publications-and-standards/standards/ecma-262/">
   <img align="left" title="Javascript" alt="Javascript" width="40px" src="./assets/JavaScript-logo.png" />
 </a>
 
