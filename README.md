@@ -1,4 +1,4 @@
-<h1> Hey <img src="./assets/welcome.gif" width="80px" /> Welcome</h1>
+<h1> Hey <img src="./assets/welcome1.gif" width="80px" /> Welcome</h1>
 
 <p> My name is Giorgi, JavaScript developer, from <img src="./assets/flagofgeorgia.png" width="20px" /> <b>Georgia</b>. </p>
 
