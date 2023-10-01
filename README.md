@@ -1,6 +1,6 @@
-<h1> Hey <img  src="./assets/welcome.png" width="80px" /> Welcome</h1>
+<h1> Hey <img  src="./assets/welcome.png" width="80px" /></h1>
 
-<p> My name is Giorgi, JavaScript developer, from <img src="./assets/flagofgeorgia.png" width="20px" /> <b>Georgia</b>. </p>
+<p> My name is Giorgi, frontend developer, from <img src="./assets/flagofgeorgia.png" width="20px" /> <b>Georgia</b>. </p>
 
 ## About me
 
