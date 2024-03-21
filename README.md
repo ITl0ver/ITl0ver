@@ -8,7 +8,7 @@
 - 📚 I'm currently learning everything 🤷‍♂️ 
 - 🎯 Became a master in JavaScript, then in Python.To work and learn with a team, where loves IT and challenges. To earn 💰
 - 👨‍💻 I study independently, with the help of AI and open sources. I am open to if you have advice🙏
-- 🎮 I'm playing C&C Generals, And if you love this game then you most likely already know me  
+- 🎮 I'm playing C&C Generals, And if you love this game then you most likely already know me  🔥
 
 
 ### I code with     
