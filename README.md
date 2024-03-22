@@ -6,9 +6,9 @@
 
 - ✨ Creating bugs from 2022
 - 📚 I'm currently learning everything 🤷‍♂️ 
-- 🎯 Became a master in JavaScript, then in Python.To work and learn with a team, where loves IT and challenges. To earn 💰
-- 👨‍💻 I study independently, with the help of AI and open sources. I am open to if you have advice🙏
-- 🎮 I'm playing C&C Generals, And if you love this game then you most likely already know me  🔥
+- 🎯 Became a master in JavaScript, then in Python. To work and learn with a team, where loves IT and challenges. To earn 💰
+- 👨‍💻 I study independently, with the help of AI and open sources. I am open to advice if you have any 🙏
+- 🎮 I'm playing C&C Generals. If you love this game, then you most likely already know me  🔥
 
 
 ### I code with     
@@ -59,7 +59,7 @@
 ### Contact 
 
   <a href="https://discordapp.com/users/itl0ver/" target="_blank">
-  <img width="40" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" width="30px" title="Discord" alt="Discord" align="left" />
+  <img width="40" src="./assets/discord.png" width="30px" title="Discord" alt="Discord" align="left" />
 </a>
 
 <a href="https://www.linkedin.com/in/giorgi-aptsiauri-785250210/" target="_blank">
