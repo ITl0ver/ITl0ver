@@ -42,18 +42,19 @@
 
 
 ### Contact 
-  <a href="https://discordapp.com/users/itl0ver/" target="_blank">
+
+<a href="https://discordapp.com/users/itl0ver/" target="_blank">
   <img width="40" src="./assets/discord.png" width="30px" title="Discord" alt="Discord" align="left" />
 </a>
 
 <a href="https://www.linkedin.com/in/giorgi-aptsiauri-785250210/" target="_blank">
     <img align="left" style="margin-left:5px" src="./assets/linkedin.png" width="35" title="Linkedin" alt="linkedin logo"  />
-  </a>
+</a>
 
 
-  <a href="mailto:info@itlover.tech" target="_blank">
+<a href="mailto:info@itlover.tech" target="_blank">
     <img   src="./assets/mailLogo.png" width="35" title="info@itlover.tech" alt="Email logo"  />
-  </a>
+</a>
 
 ### Feedback
 
