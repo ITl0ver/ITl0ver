@@ -67,7 +67,7 @@
   </a>
 
 
-  <a href="mailto:support@itlover.tech" target="_blank">
+  <a href="mailto:info@itlover.tech" target="_blank">
     <img   src="./assets/mailLogo.png" width="35" title="info@itlover.tech" alt="Email logo"  />
   </a>
 
