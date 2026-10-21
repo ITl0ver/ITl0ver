@@ -11,7 +11,7 @@
 - 🎮 I'm playing C&C Generals. If you love this game, then you most likely already know me  🔥
 
 
-### I code with     
+### Technologies Used    
 
 <a href="	ecma-international.org/publications-and-standards/standards/ecma-262/">
   <img align="left" title="Javascript" alt="Javascript" width="40px" src="./assets/JavaScript-logo.png" />
@@ -32,28 +32,12 @@
   <img align="left" title="NodeJS" alt="NodeJS" width="40px" src="./assets/nodejs.png" />
 </a>
 
-
-<a href="https://wordpress.com/" target="_blank">
-  <img align="left" style="margin-left: 5px" title="WordPress" alt="WordPress" width="40px" src="./assets/wordpress-logo.svg" />
-</a>
-
-
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" style="margin-left: 5px" title="VisualStudio" alt="VisualStudio" width="40px" src="./assets/Visual_Studio_Code.png" />
 </a>
 
-
-<a href="https://github.com/" target="_blank">
-  <img align="left" style="margin-left: 5px" title="GitHub" alt="GitHub" width="40px" src="./assets/GitHub_Logo.png" />
-</a>
-
-
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" style="margin-left: 5px" title="Git" alt="Git" width="40px" src="./assets/git.png" />
-</a>
-
-<a href="https://www.electronjs.org/" target="_blank">
- <img  style="margin-left: 5px" title="Electron" alt="Electron" width="40px" src="./assets/Electron.png" />
 </a>
 
 ### Contact 
