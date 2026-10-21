@@ -42,7 +42,9 @@
 
 
 ### Contact 
-  <a href="https://discordapp.com/users/itl0ver/" target="_blank">
+
+
+<a href="https://discordapp.com/users/itl0ver/" target="_blank">
   <img width="40" src="./assets/discord.png" width="30px" title="Discord" alt="Discord" align="left" />
 </a>
 
