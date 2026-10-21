@@ -1,62 +1,30 @@
-<h1> Hey <img  src="./assets/welcome.png" width="80px" /></h1>
+<h1>Hey <img src="./assets/welcome.png" width="80" /></h1>
 
-<p> My name is Giorgi, I'm Wordpress Developer, from <img src="./assets/flagofgeorgia.png" width="20px" /> <b>Georgia</b>. </p>
+<p>I'm Giorgi, a WordPress developer from <img src="./assets/flagofgeorgia.png" width="20" /> <b>Georgia</b>. I build, speed up and maintain business websites at <a href="https://itlover.tech">itlover.tech</a>.</p>
 
 ## About me
 
-- ✨ Creating bugs from 2023
-- 📚 I'm currently learning everything 🤷‍♂️ 
-- 🎯 Became a master in JavaScript, then in Python. To work and learn with a team, where loves IT and challenges. To earn 💰
-- 👨‍💻 I study independently, with the help of AI and open sources. I am open to advice if you have any 🙏
-- 🎮 I'm playing C&C Generals. If you love this game, then you most likely already know me  🔥
+- ✨ Shipping (and fixing) bugs since 2023
+- 🛠️ WordPress development, SEO, speed optimization and AI integration for businesses
+- 📚 Learning JavaScript and Python, with the goal of building AI tools for businesses
+- 🤝 Self-taught with the help of AI and open-source resources. Advice is always welcome 🙏
+- 🎮 Playing C&C Generals. If you play it too, you probably know me already 🔥
 
+### Technologies
 
-### Technologies Used    
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,nodejs,python,git,vscode" alt="WordPress, PHP, JavaScript, HTML, CSS, Node.js, Python, Git, VS Code" />
+</p>
 
-<a href="	ecma-international.org/publications-and-standards/standards/ecma-262/">
-  <img align="left" title="Javascript" alt="Javascript" width="40px" src="./assets/JavaScript-logo.png" />
-</a>
+### Contact
 
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
- <img align="left" title="CSS" alt="CSS" width="40px" height="30px" src="./assets/css.png" />
-</a>
-
-
-<a href="https://html.spec.whatwg.org/" target="_blank">
-  <img align="left" title="HTML" alt="HTML" width="40px" src="./assets/HTML5_logo.png" />
-</a>
-
-
-<a href="https://nodejs.org/en" target="_blank">
-  <img align="left" title="NodeJS" alt="NodeJS" width="40px" src="./assets/nodejs.png" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" style="margin-left: 5px" title="VisualStudio" alt="VisualStudio" width="40px" src="./assets/Visual_Studio_Code.png" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" style="margin-left: 5px" title="Git" alt="Git" width="40px" src="./assets/git.png" />
-</a>
-
-
-### Contact 
-
-
-<a href="https://discordapp.com/users/itl0ver/" target="_blank">
-  <img width="40" src="./assets/discord.png" width="30px" title="Discord" alt="Discord" align="left" />
-</a>
-
-<a href="https://www.linkedin.com/in/giorgi-aptsiauri-785250210/" target="_blank">
-    <img align="left" style="margin-left:5px" src="./assets/linkedin.png" width="35" title="Linkedin" alt="linkedin logo"  />
-  </a>
-
-
-  <a href="mailto:info@itlover.tech" target="_blank">
-    <img   src="./assets/mailLogo.png" width="35" title="info@itlover.tech" alt="Email logo"  />
-  </a>
+<p>
+  <a href="https://itlover.tech" target="_blank"><img src="./assets/website.png" width="35" title="itlover.tech" alt="Website" /></a>&nbsp;
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="./assets/discord.png" width="35" title="Discord" alt="Discord" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/giorgi-aptsiauri-785250210/" target="_blank"><img src="./assets/linkedin.png" width="35" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:info@itlover.tech"><img src="./assets/mailLogo.png" width="35" title="info@itlover.tech" alt="Email" /></a>
+</p>
 
 ### Feedback
 
-Please provide your feedback by clicking [here](https://docs.google.com/forms/d/e/1FAIpQLSe4hNBtsKj0pqyjDH4ZPLh9C6BoDBxETuEyO4Zq_OivqDNvlg/viewform?usp=sf_link).
+Please share your feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSe4hNBtsKj0pqyjDH4ZPLh9C6BoDBxETuEyO4Zq_OivqDNvlg/viewform?usp=sf_link).
