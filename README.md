@@ -40,8 +40,8 @@
   <img align="left" style="margin-left: 5px" title="Git" alt="Git" width="40px" src="./assets/git.png" />
 </a>
 
-### Contact 
 
+### Contact 
   <a href="https://discordapp.com/users/itl0ver/" target="_blank">
   <img width="40" src="./assets/discord.png" width="30px" title="Discord" alt="Discord" align="left" />
 </a>
